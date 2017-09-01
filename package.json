@@ -40,5 +40,9 @@
   "engines": {
     "node": ">= 4"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "ember-cli-font-awesome": "^1.5.2",
+    "ember-cli-sass": "^7.0.0"
+  }
 }
